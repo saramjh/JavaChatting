@@ -5,14 +5,11 @@ This application is a simple online chat programme implemented using Java. It al
 This program was a Programming assignment.
 
 ## Preview
-Server
-![image](https://github.com/user-attachments/assets/a862649e-afd6-4a3b-a5bd-f2d726033111)
+Server   ![Server Preview](https://github.com/user-attachments/assets/a862649e-afd6-4a3b-a5bd-f2d726033111)
 
-Client0
-![image](https://github.com/user-attachments/assets/f3f93ee3-6119-47b7-b220-3fd15f3a536b)
+Client0   ![Client0 Preview](https://github.com/user-attachments/assets/f3f93ee3-6119-47b7-b220-3fd15f3a536b)
 
-Client1
-![image](https://github.com/user-attachments/assets/e74cd9e6-8207-4c76-966f-f0af3af1fe29)
+Client1   ![Client1 Preview](https://github.com/user-attachments/assets/e74cd9e6-8207-4c76-966f-f0af3af1fe29)
 
 
 ## How to run.
